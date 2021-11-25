@@ -1,4 +1,5 @@
 pickme3d is a client program of an on-line furniture store. This program can help customers to find proper furnitures for their room.
+Virtual furniture store client, construct 3D space from a photo of room and can help customers to find proper furnitures for their room. OpenGL based rendering, supports 3DS file format.
 
 # Key features:
 	* making a realistic 3D room based on the room photo
