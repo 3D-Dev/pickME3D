@@ -22,6 +22,10 @@ The pickME3D is a client program of an online furniture store. This program can 
 
 # Supported langages
 	English, Thai
+	
+# LICENCE
+pickME3D by [PROCW](https://join.skype.com/invite/zC4qusVIYRdT) is licensed under a [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
 
 
 
